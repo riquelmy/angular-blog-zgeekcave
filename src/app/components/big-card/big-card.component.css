@@ -1,5 +1,5 @@
 .big__card__container {
-  border: solid 5px white;
+  /* border: solid 5px white; */
   margin-left: 20px;
   margin-right: 20px;
   width: 400px;
@@ -12,6 +12,7 @@
 
 .bc_photo {
   width: 100%;
+  min-width: 400px;
 }
 
 .big__card__title > h1 {
@@ -19,7 +20,15 @@
   font-size: 25px;
 }
 
-.big__card__description > p {
+.big__card__description {
+  margin-top: 12px;
+}
+.big__card__description > p > a {
   margin-top: 10px;
   color: grey;
+
+}
+
+.big__card__description > p {
+  text-align: justify;
 }
