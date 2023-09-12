@@ -1,0 +1,25 @@
+.menu__bar__container > ul {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.menu_item {
+  display: flex;
+  justify-content: center;
+
+}
+.menu_item > img {
+
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+
+}
+
+
+.menu__bar__container > ul > li {
+  margin: 10px;
+  list-style-type: none;
+
+}

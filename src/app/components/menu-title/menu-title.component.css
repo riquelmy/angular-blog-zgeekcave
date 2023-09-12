@@ -1,5 +1,7 @@
 .menu__title__container{
   color: white;
+  background: grey;
+
 }
 
 .menu__title__container > hr {
@@ -15,4 +17,5 @@
   justify-content: center;
   font-weight: bold;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: grey;
 }
