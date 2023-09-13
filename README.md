@@ -1,27 +1,8 @@
-# AngularBlog
+# Pokedex 
+**Zgeek Cave** is a blog project I did for **DIO (Digital Innovation One)**'s Full Stack Bootcamp. I built it with the framework Angular and I practiced a lot of concepts related to components.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+## Overview
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+The challenge of the bootcamp was to build a blog project to practice the skills I have learned so far with Angular (that being, directives, components, routes, life-cycle hooks, dynamic elements). To do it, I used as inspiration Dwinawan's blog layout on <a href="https://dribbble.com/shots/18089191-Blog-Layout" target="_blank">Dribble</a>
+<br><br>
+**Technologies/Tools used in it**: Git, Github, Node.js, CSS, HTML, JavaScript, TypeScript, Angular, VsCode
