@@ -1,5 +1,5 @@
-# Zgeek Cave
-**Zgeek Cave** is a blog project I did for **DIO (Digital Innovation One)**'s Full Stack Bootcamp. I built it with the framework Angular and I practiced a lot of concepts related to components.
+# Zgeek Cave (personal blog)
+**Zgeek Cave** is a personal blog project I did for **DIO (Digital Innovation One)**'s Full Stack Bootcamp. I built it with the framework Angular and I practiced a lot of concepts related to components.
 
 ## Overview
 
