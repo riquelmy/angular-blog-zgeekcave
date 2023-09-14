@@ -7,11 +7,22 @@
   display: flex;
   flex-direction: row;
 }
-.small__card__image > img {
+.small__card__image > a > img {
   min-width: 200px;
   width: 200px;
   height: 125px;
   margin-right: 20px;
+  transition: transform 0.2s;
+  border: 0.01px solid #12121200;
+  border-radius: 5px;
+}
+
+.small__card__image > a > img:hover {
+  min-width: 200px;
+  width: 200px;
+  height: 125px;
+  margin-right: 20px;
+  transform: scale(1.05);
 }
 
 .small__card__title > h1 {

@@ -13,6 +13,16 @@
 .bc_photo {
   width: 100%;
   min-width: 400px;
+  transition: transform 0.2s;
+  border: 0.01px solid #12121200;
+  border-radius: 5px;
+
+}
+
+.bc_photo:hover {
+  width: 100%;
+  min-width: 400px;
+  transform: scale(1.05);
 }
 
 .big__card__title > h1 {
